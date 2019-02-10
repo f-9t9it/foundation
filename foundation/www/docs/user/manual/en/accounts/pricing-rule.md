@@ -12,7 +12,7 @@ Following are the few cases which can be addressed using Pricing Rule.
 
 3. Items categorized under specific Item Group has same selling or buying price.
 
-4. Customers balonging to specific Customer Group should get ### selling price, or % of Discount on Items.
+4. Customers belonging to specific Customer Group should get ### selling price, or % of Discount on Items.
 
 5. Supplier categorized under specific Supplier Group should have ### buying rate applied.
 
